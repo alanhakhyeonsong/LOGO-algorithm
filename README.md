@@ -6,7 +6,7 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
 * 먼저 이 스터디 저장소를 Fork 한 뒤 Clone
-* 문제 해결 소스코드는 "문제 영어명_자신이름.확장자"
+* 문제 해결 소스코드는 ["문제 영어명_자신이름.확장자"](https://github.com/Hanturtle/LOGO-algorithm#%ED%8C%8C%EC%9D%BC-%EB%B0%8F-%ED%8F%B4%EB%8D%94-%EA%B5%AC%EC%A1%B0)
 
 #### git clone
 저장소 복제
